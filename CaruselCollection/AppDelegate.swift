@@ -9,7 +9,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
         ) -> Bool {
             window = UIWindow(frame: UIScreen.main.bounds) // ВАЖНО: задать frame
-            window?.rootViewController = ViewController()
+            window?.rootViewController = CarouselViewController()
             window?.makeKeyAndVisible()
             return true
         }
