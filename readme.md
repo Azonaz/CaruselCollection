@@ -6,6 +6,7 @@ This project shows you how to make a carousel-style image gallery using UICollec
 - Items not in the centre are blurred, which makes them stand out more and draws attention to the central item.
 
 # Screencast
+![carouselCollection](https://github.com/user-attachments/assets/faae16d1-bc3c-41dc-b9dd-5db8546db846)
 
 
 Stack: UIKit, UICollectionView, UICollectionViewFlowLayout.
